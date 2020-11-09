@@ -6,3 +6,6 @@ Dataset sources
 - https://data.humdata.org/dataset/philippines-pre-disaster-indicators
 2. Administrative boundaries
 - https://github.com/faeldon/philippines-json-maps
+
+Access the Jupyter notebook with Geospatial Visualizations here:
+https://bit.ly/predisaster_geospatial_maps
